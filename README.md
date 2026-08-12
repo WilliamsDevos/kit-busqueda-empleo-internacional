@@ -81,4 +81,4 @@ Si lo usas y algo no funciona, abre un issue. Los errores reales son lo que hace
 
 ## Licencia
 
-MIT. Úsalo, cópialo, modifícalo y compártelo libremente.
+Úsalo, cópialo, modifícalo y compártelo libremente.
