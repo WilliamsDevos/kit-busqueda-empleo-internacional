@@ -63,7 +63,41 @@ Después de la entrevista, dime la verdad sin adornos:
 
 ---
 
-## FASE 2 — CV Y LINKEDIN
+## FASE 2 — DÓNDE SE PUBLICA MI TRABAJO
+
+**Esta fase va antes del CV, y el orden importa.** Si escribimos el CV primero, lo escribimos para un mercado imaginario. Cuando llegue a la plataforma real me voy a encontrar con otro formato, campos que mi CV no cubre y un perfil interno que hay que llenar a mano igual. Investiga primero dónde voy a aplicar.
+
+**Busca en internet y verifica que cada canal tenga vacantes vivas de mi perfil ahora mismo.** Un portal vacío no se lista.
+
+Necesito tres listas:
+
+1. **Portales sectoriales** — los de mi industria. Casi ningún sector vive en los portales generalistas.
+2. **Portales regionales** — los del mercado que busco. Suelen ser invisibles desde fuera de esa región y son donde está el volumen real.
+3. **Páginas de carrera** — 3 a 5 empleadores concretos que contraten mi perfil, con el enlace directo a su sección de empleo. Muchos publican ahí primero, y algunos solo ahí.
+
+De cada canal dime: **cuántas vacantes de mi perfil tiene vivas hoy**, si exige registro, y si los empleadores de ahí patrocinan visa de forma habitual. Ese último dato cambia la prioridad más que ningún otro.
+
+Si un canal está vacío o resultó ser publicidad, dilo y descártalo. **No infles la lista.**
+
+---
+
+## FASE 3 — CREDENCIALES
+
+Antes de escribir documentos, dejo creadas las cuentas.
+
+Para cada plataforma de la fase anterior, por orden de volumen:
+
+- Dime **qué datos me va a pedir el registro** para tenerlos a mano
+- Rellena todo lo que no sean credenciales; **las contraseñas y los CAPTCHA los hago yo**
+- Muchos portales tienen un **perfil interno** además del CV adjunto: campos de experiencia, idiomas, preferencias salariales. **Ese perfil suele pesar más que el archivo**, porque es lo que filtran los buscadores del reclutador. Complétalo entero.
+- Revisa el **ajuste de visibilidad**. "Público" suele significar indexable por Google. Si sigo empleado, avísame de la implicación antes de elegir.
+- Si un portal parsea mi CV automáticamente, **revisa lo que entendió**. Los parsers degradan el nivel de idioma, pierden fechas e inventan categorías.
+
+Al terminar, una tabla: plataforma, estado de la cuenta, perfil completo sí/no, qué falta.
+
+---
+
+## FASE 4 — CV Y LINKEDIN
 
 Reescribe mi CV con estas reglas:
 
@@ -91,7 +125,7 @@ Al terminar, muéstrame **un antes y después de las 3 líneas más importantes*
 
 ---
 
-## FASE 3 — INVESTIGACIÓN DE MERCADO
+## FASE 5 — INVESTIGACIÓN DE MERCADO Y VACANTES
 
 **Busca en internet. No confíes en tu memoria** — vacantes, salarios y reglas migratorias cambian. Ponme fecha y fuente de cada dato.
 
@@ -113,7 +147,7 @@ Para cada mercado:
 
 ---
 
-## FASE 4 — APLICACIONES LISTAS PARA ENVIAR
+## FASE 6 — APLICACIONES LISTAS PARA ENVIAR
 
 Para cada oportunidad, el paquete completo:
 
@@ -136,7 +170,7 @@ Para cada oportunidad, el paquete completo:
 
 ---
 
-## FASE 5 — SEGUIMIENTO
+## FASE 7 — SEGUIMIENTO
 
 - Mantén un registro con: fecha, empresa, puesto, país, canal, CV enviado, estado, fecha de seguimiento, notas.
 - **Regla de seguimiento: 10 días hábiles.** Calcúlame la fecha y redáctame el correo.

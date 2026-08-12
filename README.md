@@ -28,16 +28,20 @@ En **[`plantillas/`](plantillas/)** están el checklist de documentos, el regist
 
 **Empieces por donde empieces, lee [`GUIA_RAPIDA.md`](GUIA_RAPIDA.md).** Son diez errores que cuestan entrevistas, y varios son invisibles hasta que alguien te los señala.
 
+> ⚠️ **Si vas a clonar este repo, lee antes [`PRIVACIDAD.md`](PRIVACIDAD.md).** El kit genera archivos con tu nombre, tu dirección y tu salario. Un `git add .` distraído los publica.
+
 ---
 
 ## Qué hace el método, en orden
 
-1. **Entrevista inicial** — seis bloques cortos. Sin esto, todo lo demás son suposiciones.
-2. **Diagnóstico honesto** — tus 3 activos reales, lo que te frena, y una puntuación de realismo del 1 al 10 por mercado.
-3. **CV y LinkedIn** — una versión por perfil objetivo, compatible con ATS, con logros numéricos.
-4. **Investigación de mercado** — empleadores con nombre, ordenados por fricción migratoria de menor a mayor.
-5. **Aplicaciones listas** — carta redactada, dónde aplicar, qué CV adjuntar.
-6. **Seguimiento** — registro y regla de 10 días hábiles.
+1. **Entrevista y diagnóstico** — seis bloques cortos, y después la verdad: tus 3 activos reales, lo que te frena, y una puntuación de realismo del 1 al 10 por mercado.
+2. **Investigación de plataformas** — dónde se publica de verdad tu trabajo. Portales sectoriales, regionales y páginas de carrera de empleadores concretos. **Antes de escribir una sola línea de CV.**
+3. **Credenciales** — crear las cuentas en esas plataformas y completar los perfiles. Muchas tienen su propio CV interno que pesa más que el archivo que adjuntas.
+4. **Documentos** — CV por perfil, cartas, checklist de papeles. Ahora sí, sabiendo qué pide cada plataforma y cada mercado.
+5. **Aplicaciones** — carta redactada, dónde aplicar, qué CV adjuntar, formulario relleno y listo para tu Submit.
+6. **Seguimiento** — registro, regla de 10 días hábiles y una sola acción siguiente cada vez.
+
+> **Por qué las plataformas van antes que el CV.** Es contraintuitivo y es la lección que más caro cuesta aprender. Si escribes el CV primero, lo escribes para un mercado imaginario. Cuando llegas a la plataforma real descubres que pide otra cosa: un formato distinto, campos que tu CV no cubre, un perfil interno que hay que llenar a mano de todas formas. Investiga primero dónde vas a aplicar, y el CV sale bien a la primera.
 
 ---
 

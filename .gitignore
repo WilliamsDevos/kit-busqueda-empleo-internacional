@@ -1,0 +1,32 @@
+# Datos personales — NUNCA se suben
+#
+# Si clonas este repo y corres el kit dentro de la carpeta, estos archivos
+# van a contener tu nombre, tu teléfono, tu dirección y tu salario.
+# Esta lista existe para que un `git add .` distraído no los publique.
+
+mi-configuracion.md
+mis-datos*
+TRACKER_APLICACIONES.md
+tracker*
+seguimiento*
+
+# Todo lo que generes tú
+CV*
+cv/
+*.pdf
+*.docx
+*.xlsx
+documentos/
+aplicaciones/
+cartas/
+
+# Excepción: las plantillas vacías del kit sí van
+!plantillas/
+!plantillas/*
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
+*.swp
+.env
+.env.*

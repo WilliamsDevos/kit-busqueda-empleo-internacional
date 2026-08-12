@@ -55,7 +55,30 @@ Cuando un mercado no es viable, demuéstralo con la cifra. Un descarte con núme
 
 ---
 
-## Fase 2 — CV
+## Fase 2 — Dónde se publica su trabajo
+
+**Antes del CV.** Escribir el CV primero significa escribirlo para un mercado imaginario; al llegar a la plataforma real aparecen otro formato, campos que el CV no cubre y un perfil interno que hay que llenar igual.
+
+Busca en internet y arma tres listas, verificando que cada canal tenga **vacantes vivas de su perfil ahora mismo**:
+
+1. **Portales sectoriales** de su industria — casi ningún sector vive en los generalistas
+2. **Portales regionales** del mercado objetivo — invisibles desde fuera, y donde está el volumen
+3. **Páginas de carrera** de 3-5 empleadores concretos, con enlace directo
+
+De cada uno: cuántas vacantes vivas, si exige registro, y **si esos empleadores patrocinan visa de forma habitual**. Ese dato reordena las prioridades más que ningún otro.
+
+Un canal vacío no se lista. No inflar.
+
+## Fase 3 — Credenciales
+
+Crear las cuentas antes de escribir documentos.
+
+- Rellenar todo salvo credenciales. **Contraseñas y CAPTCHA los hace la persona.**
+- Completar el **perfil interno** del portal, no solo adjuntar el CV. Es lo que filtran los reclutadores y suele pesar más que el archivo.
+- Revisar el **ajuste de visibilidad**: "público" suele significar indexable por Google. Si sigue empleado, avisar antes de elegir.
+- Si el portal parsea el CV, **revisar qué entendió**. Los parsers degradan niveles de idioma, pierden fechas e inventan categorías.
+
+## Fase 4 — CV
 
 - **Una versión por perfil objetivo.** Tres objetivos = tres CV con el mismo historial contado desde otro ángulo.
 - **ATS-friendly:** una columna, sin tablas, sin gráficos, sin encabezados ni pies, fuente estándar.
@@ -79,7 +102,7 @@ Al terminar, muestra **un antes y después de las 3 líneas más importantes** y
 
 ---
 
-## Fase 3 — Investigación de mercado
+## Fase 5 — Investigación de mercado y vacantes
 
 **Busca en internet. No confíes en tu memoria.** Pon fecha y fuente a cada dato.
 
@@ -97,7 +120,7 @@ Los empleadores grandes segmentan por región y **no todas las regiones ofrecen 
 
 ---
 
-## Fase 4 — Aplicaciones
+## Fase 6 — Aplicaciones
 
 1. **Dónde aplicar** — URL exacta o correo
 2. **Qué CV adjuntar** — siempre PDF, nunca .docx
@@ -116,7 +139,7 @@ Muchas vacantes remotas exigen **grabación de voz o video en inglés** — así
 
 ---
 
-## Fase 5 — Seguimiento
+## Fase 7 — Seguimiento
 
 - Registro con: fecha, empresa, puesto, país, canal, CV enviado, estado, seguimiento, notas.
 - **Regla: 10 días hábiles.** Calcula la fecha y redacta el correo.
