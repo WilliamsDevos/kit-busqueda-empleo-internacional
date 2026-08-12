@@ -4,7 +4,9 @@ Pégalo como prompt de una tarea programada con la frecuencia de `FRECUENCIA_BUS
 
 ---
 
-Lee `CONFIG.md` y `TRACKER_APLICACIONES.md` antes de hacer nada. Todo lo que sigue usa esos valores.
+Lee `CONFIG.md` y el archivo indicado en `ARCHIVO_DE_REGISTRO` antes de hacer nada. Todo lo que sigue usa esos valores.
+
+> Si el archivo de registro todavía no existe, créalo copiando `plantillas/TRACKER_APLICACIONES.md`.
 
 ## Qué hacer
 
@@ -26,7 +28,7 @@ Prioriza en este orden:
 - Empleadores que cobren por contratar, tramitar visa o examen médico
 - Anuncios sin nombre de empresa
 - Agregadores que no lleven al portal oficial
-- Lo que ya esté en TRACKER_APLICACIONES.md
+- Lo que ya esté en tu archivo de registro
 
 **No rellenes el cupo con vacantes malas.** Si solo encuentras 4 buenas, trae 4 y dilo. Una lista inflada hace perder más tiempo del que ahorra.
 
@@ -36,7 +38,7 @@ Prioriza en este orden:
 2. **Prepara la aplicación completa:** URL oficial, qué CV de CV_POR_PERFIL adjuntar, asunto y carta de máximo 250 palabras — primer párrafo con algo real de esa empresa, segundo con el resultado más fuerte y su número, tercero declarando de frente cualquier requisito que falte.
 3. **Rellena el formulario hasta donde puedas** y déjalo listo para Submit. **Nunca envíes.**
 4. Si pide grabación de voz o video, **avísalo arriba del todo** y escribe el guion.
-5. Registra la fila en TRACKER_APLICACIONES.md con estado "lista para enviar".
+5. Registra la fila en ARCHIVO_DE_REGISTRO con estado "lista para enviar".
 
 ## Lo que nunca haces
 
