@@ -6,23 +6,35 @@ Lo que hacen que una lista de tareas manual no hace: siguen corriendo la semana 
 
 ---
 
-## Puesta en marcha, 10 minutos
+## Puesta en marcha
 
-**1. Llena [`CONFIG.md`](CONFIG.md).** Es lo único que se edita. Las dos tareas leen de ahí.
+**Un solo paso.** Copia [`TAREA_configurar.md`](TAREA_configurar.md) y pégalo en tu asistente.
 
-**2. Crea la tarea de búsqueda.** En tu asistente, programa una tarea recurrente con la frecuencia de `FRECUENCIA_BUSQUEDA` y pega como prompt el contenido de [`TAREA_busqueda.md`](TAREA_busqueda.md).
+Te va a hacer unas preguntas cortas —qué buscas, cuánto ganas hoy, cuánto tiempo tienes, si tienes micrófono— y con eso escribe tu configuración, crea tu archivo de registro y deja las dos tareas programadas. Después te muestra un resumen y ya está corriendo.
 
-**3. Crea la tarea de seguimiento.** Igual, con `FRECUENCIA_SEGUIMIENTO` y [`TAREA_seguimiento.md`](TAREA_seguimiento.md).
+**Tú no editas ningún archivo.** Si algo cambia, se lo dices en una frase: *"sube la meta a 15 por semana"*, *"agrega Portugal a los descartes"*, *"ya tengo micrófono"*. Él actualiza la configuración y el cambio aplica desde la siguiente corrida.
 
-**4. Córrelas a mano una vez.** La primera ejecución suele pedir permisos de navegador o correo. Mejor que eso pase contigo delante y no a las 8 de la mañana en una corrida automática que se queda trabada esperando.
+---
 
-> **Si tu asistente no programa tareas:** las plantillas funcionan igual pegadas a mano. Ponte un recordatorio en el calendario con la misma frecuencia. Pierdes la automatización, no el método.
+## Qué hay en esta carpeta
+
+| Archivo | Para qué |
+|---|---|
+| [`TAREA_configurar.md`](TAREA_configurar.md) | **Empieza aquí.** Te entrevista y deja todo montado |
+| [`TAREA_busqueda.md`](TAREA_busqueda.md) | El prompt de la tarea que busca vacantes |
+| [`TAREA_seguimiento.md`](TAREA_seguimiento.md) | El prompt de la tarea que revisa estados |
+
+Las dos últimas las programa el asistente por ti. Están aquí sueltas por si quieres leerlas antes, o pegarlas a mano si tu herramienta no programa tareas.
+
+`mi-configuracion.md` lo genera el asistente en el primer paso. No existe hasta entonces.
 
 ---
 
 ## Los cuatro números que controlan todo
 
-| Parámetro | Qué controla | Si empiezas |
+El asistente te los propone ya calculados según las horas que tengas. Vale la pena saber qué significan:
+
+| Parámetro | Qué controla | Arranque razonable |
 |---|---|---|
 | `VACANTES_POR_RONDA` | Cuántas trae cada búsqueda | 5 |
 | `APLICACIONES_META_SEMANA` | Meta de envíos por semana | 10 |
@@ -47,7 +59,7 @@ Tampoco crean cuentas, escriben contraseñas, marcan casillas de consentimiento 
 
 ## Qué esperar de verdad
 
-**Primera semana:** poco. El asistente todavía no sabe cuáles son los portales de tu sector y va a traer resultados genéricos. Corrígelo y anota los portales buenos en `PORTALES_PROPIOS_DE_MI_SECTOR`.
+**Primera semana:** poco. El asistente todavía está aprendiendo cuáles son los portales buenos de tu sector y va a traer resultados genéricos. Corrígelo — esa corrección es la que hace que la segunda semana sirva.
 
 **Tercera semana:** empiezan las respuestas de las primeras aplicaciones. La mayoría serán rechazos. Es normal y no significa que el sistema falle.
 

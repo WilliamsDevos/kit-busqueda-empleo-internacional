@@ -19,7 +19,9 @@ Funciona mejor si tu herramienta puede buscar en internet.
 Instala **[`skill/SKILL.md`](skill/SKILL.md)**. Se activa sola cuando hables de búsqueda de empleo internacional, y persiste entre conversaciones — no tienes que pegar nada cada vez.
 
 ### 3. Quiero que corra solo
-En **[`automatizaciones/`](automatizaciones/)** hay dos tareas programables: una busca vacantes y te las deja listas para enviar, otra revisa el estado de lo que ya enviaste. Llenas un solo archivo de configuración —cuántas vacantes por ronda, cada cuánto buscar, cada cuánto revisar— y las dos leen de ahí.
+Pega **[`automatizaciones/TAREA_configurar.md`](automatizaciones/TAREA_configurar.md)** y responde unas preguntas cortas. Con eso el asistente deja dos tareas corriendo solas: una busca vacantes y te las deja listas para enviar, otra revisa el estado de lo que ya enviaste.
+
+No editas ningún archivo de configuración — él te entrevista y lo escribe.
 
 ### 4. Solo quiero las plantillas
 En **[`plantillas/`](plantillas/)** están el checklist de documentos, el registro de aplicaciones y la estructura de CV compatible con ATS. Úsalas con o sin IA.

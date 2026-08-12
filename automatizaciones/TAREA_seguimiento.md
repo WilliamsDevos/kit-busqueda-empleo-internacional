@@ -4,9 +4,9 @@ Pégalo como prompt de una tarea programada con la frecuencia de `FRECUENCIA_SEG
 
 ---
 
-Lee `CONFIG.md` y el archivo indicado en `ARCHIVO_DE_REGISTRO` antes de hacer nada.
+Lee `mi-configuracion.md` y el archivo indicado en `ARCHIVO_DE_REGISTRO` antes de hacer nada.
 
-> Si el archivo de registro todavía no existe, créalo copiando `plantillas/TRACKER_APLICACIONES.md`.
+> Si `mi-configuracion.md` no existe, no improvises: dile al usuario que corra primero `TAREA_configurar.md` y detente ahí.
 
 ## Qué hacer
 

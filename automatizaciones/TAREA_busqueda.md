@@ -4,9 +4,9 @@ Pégalo como prompt de una tarea programada con la frecuencia de `FRECUENCIA_BUS
 
 ---
 
-Lee `CONFIG.md` y el archivo indicado en `ARCHIVO_DE_REGISTRO` antes de hacer nada. Todo lo que sigue usa esos valores.
+Lee `mi-configuracion.md` y el archivo indicado en `ARCHIVO_DE_REGISTRO` antes de hacer nada. Todo lo que sigue usa esos valores.
 
-> Si el archivo de registro todavía no existe, créalo copiando `plantillas/TRACKER_APLICACIONES.md`.
+> Si `mi-configuracion.md` no existe, no improvises: dile al usuario que corra primero `TAREA_configurar.md` y detente ahí.
 
 ## Qué hacer
 
@@ -32,6 +32,14 @@ Prioriza en este orden:
 
 **No rellenes el cupo con vacantes malas.** Si solo encuentras 4 buenas, trae 4 y dilo. Una lista inflada hace perder más tiempo del que ahorra.
 
+## Lee el anuncio COMPLETO antes de juzgarlo
+
+**Nunca decidas con el resumen ni con el primer párrafo visible.** Casi todos los portales cortan la descripción con un "Read more", "Ver más", "Show full description" o un acordeón, y **el requisito que descalifica la vacante suele estar justo debajo del corte**.
+
+Antes de evaluar: expande todo lo que esté colapsado, baja hasta el final, y confirma que estás viendo responsabilidades y requisitos completos. Si el portal no deja ver el texto entero, abre la vacante en la página oficial del empleador.
+
+**Desconfía del texto promocional.** Un anuncio que dice *"you aren't just reading from a script"* o *"this isn't your typical support role"* está anticipándose a una objeción real. Juzga por la lista de responsabilidades, no por cómo se describe a sí mismo.
+
 ## Con cada vacante que pase el filtro
 
 1. **Verifica que siga viva.** Abre el enlace. Si dio 404 o dice "closed", no la listes.
@@ -42,7 +50,7 @@ Prioriza en este orden:
 
 ## Lo que nunca haces
 
-Crear cuentas · escribir contraseñas · marcar casillas de consentimiento · grabar audio o video · enviar sin aprobación · inventar un dato que no esté en CONFIG.md.
+Crear cuentas · escribir contraseñas · marcar casillas de consentimiento · grabar audio o video · enviar sin aprobación · inventar un dato que no esté en `mi-configuracion.md`.
 
 Cuando llegues a un campo que no puedas contestar con certeza, **anótalo en la lista de "necesito de ti"** en vez de adivinar.
 
