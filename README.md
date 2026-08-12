@@ -18,7 +18,10 @@ Funciona mejor si tu herramienta puede buscar en internet.
 ### 2. Uso Claude con skills
 Instala **[`skill/SKILL.md`](skill/SKILL.md)**. Se activa sola cuando hables de búsqueda de empleo internacional, y persiste entre conversaciones — no tienes que pegar nada cada vez.
 
-### 3. Solo quiero las plantillas
+### 3. Quiero que corra solo
+En **[`automatizaciones/`](automatizaciones/)** hay dos tareas programables: una busca vacantes y te las deja listas para enviar, otra revisa el estado de lo que ya enviaste. Llenas un solo archivo de configuración —cuántas vacantes por ronda, cada cuánto buscar, cada cuánto revisar— y las dos leen de ahí.
+
+### 4. Solo quiero las plantillas
 En **[`plantillas/`](plantillas/)** están el checklist de documentos, el registro de aplicaciones y la estructura de CV compatible con ATS. Úsalas con o sin IA.
 
 **Empieces por donde empieces, lee [`GUIA_RAPIDA.md`](GUIA_RAPIDA.md).** Son diez errores que cuestan entrevistas, y varios son invisibles hasta que alguien te los señala.
