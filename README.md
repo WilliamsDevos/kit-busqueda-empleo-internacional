@@ -19,7 +19,7 @@ Funciona mejor si tu herramienta puede buscar en internet.
 Instala **[`skill/SKILL.md`](skill/SKILL.md)**. Se activa sola cuando hables de búsqueda de empleo internacional, y persiste entre conversaciones — no tienes que pegar nada cada vez.
 
 ### 3. Solo quiero las plantillas
-En **[`plantillas/`](plantillas/)** están el checklist de documentos, el registro de aplicaciones y la estructura de CV compatible con ATS. Úsalas con o sin IA.
+En **[`plantillas/`](plantillas/)** están el [checklist de documentos](plantillas/CHECKLIST_DOCUMENTOS.md), el [registro de aplicaciones](plantillas/REGISTRO_APLICACIONES.md) — también en [CSV](plantillas/registro_aplicaciones.csv) — y la [estructura de CV compatible con ATS](plantillas/ESTRUCTURA_CV_ATS.md). Úsalas con o sin IA.
 
 **Empieces por donde empieces, lee [`GUIA_RAPIDA.md`](GUIA_RAPIDA.md).** Son diez errores que cuestan entrevistas, y varios son invisibles hasta que alguien te los señala.
 
@@ -73,9 +73,23 @@ Pagarle a una **escuela acreditada** por una certificación obligatoria sí es l
 
 ---
 
+## Qué hay aquí
+
+```
+PROMPT_MAESTRO.md        Para pegar en cualquier chat de IA
+skill/SKILL.md           Para instalar en Claude como skill
+GUIA_RAPIDA.md           Diez errores que cuestan entrevistas
+plantillas/              Checklist, registro y estructura de CV
+PROCESO.md               Cómo se mejora este kit
+```
+
+`PROMPT_MAESTRO.md` y `skill/SKILL.md` dicen lo mismo con distinta voz — usa uno u otro, no los dos a la vez.
+
+---
+
 ## Estado
 
-En desarrollo activo. Se irá puliendo con lo que falle en la práctica.
+En desarrollo activo. Se irá puliendo con lo que falle en la práctica. Cómo entra una mejora está en **[`PROCESO.md`](PROCESO.md)**.
 
 Si lo usas y algo no funciona, abre un issue. Los errores reales son lo que hace bueno a este método.
 
