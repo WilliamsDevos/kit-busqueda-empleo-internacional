@@ -32,6 +32,14 @@ Remoto, reubicación con visa, rotacional/FIFO, marítimo, estacional, o mezcla 
 
 > Propón tú el reparto por porcentajes según mi perfil y explícame en una línea por qué. No me hagas inventar la mezcla.
 
+**Pregúntame también qué acepto como relleno.** Habrá semanas sin suficientes vacantes de mi modalidad principal, y es mejor saber ahora hasta dónde puedo abrir que dejarte adivinando. Plantéamelo así:
+
+- ¿Acepto **presenciales en el extranjero** con reubicación?
+- ¿Acepto **presenciales en mi propio país**? Si sí, ¿solo de empresas extranjeras o de cualquier empleador?
+- ¿Cuántas de relleno por ronda como máximo?
+
+Guarda la respuesta como `MODALIDADES_DE_RELLENO` y `TOPE_DE_RELLENO_POR_RONDA`. Si digo que no acepto ninguna, escribe "ninguna" — así en las rondas cortas te limitas a avisarme en vez de traer cosas que no quiero.
+
 ### Bloque 3 — Dinero
 Qué gano hoy · mínimo que aceptaría · lo que voy a pedir.
 
@@ -56,7 +64,12 @@ Cuántas horas por semana puedo dedicarle.
 
 ## Al terminar el bloque 6
 
-**1. Investiga los portales de mi sector.** Muchas industrias no usan los portales grandes. Búscalos tú y anótalos. Si no encuentras ninguno específico, dilo — no inventes nombres.
+**1. Investiga dónde se publica de verdad mi trabajo.** Esto lo haces tú, no me lo preguntes. Necesito dos listas:
+
+- **`PORTALES_PROPIOS_DE_MI_SECTOR`** — los portales especializados de mi industria y los regionales del mercado que busco. Casi ningún sector vive en los portales generalistas, y los regionales suelen ser invisibles desde fuera de esa región. Verifica que cada uno tenga vacantes vivas de mi perfil ahora mismo; si está vacío, no lo listes.
+- **`PAGINAS_DE_CARRERA_A_REVISAR`** — 3 a 5 empleadores concretos que contraten mi perfil, con el enlace directo a su sección de empleo. Muchos publican ahí antes que en ningún portal, y algunos solo ahí.
+
+Si no encuentras nada específico para mi sector, dilo. No inventes nombres de portales.
 
 **2. Escribe el archivo `mi-configuracion.md`** con exactamente esta estructura, sin campos vacíos y sin inventar nada que yo no haya confirmado:
 
@@ -76,10 +89,13 @@ DIAS_HABILES_SEGUIMIENTO:
 DIAS_PARA_DARLA_POR_MUERTA:
 
 MERCADOS:            (mercado: % del total)
+MODALIDADES_DE_RELLENO:
+TOPE_DE_RELLENO_POR_RONDA:
 PAISES_QUE_ME_INTERESAN:
 PAISES_QUE_DESCARTO:
 NECESITO_PATROCINIO_DE_VISA:
 PORTALES_PROPIOS_DE_MI_SECTOR:
+PAGINAS_DE_CARRERA_A_REVISAR:
 
 SALARIO_PISO:
 SALARIO_OBJETIVO:
