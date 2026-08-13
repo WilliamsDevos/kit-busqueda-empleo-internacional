@@ -84,6 +84,68 @@ Los sitios que prometen "empleos con visa patrocinada" suelen ser publicidad sin
 
 ---
 
+# Cinco trampas de los portales
+
+Estas no son errores de criterio como los diez de arriba. Son fallos de los propios portales, y te muerden aunque hagas todo bien.
+
+**Cuatro de las cinco se resuelven con la misma herramienta:** una hoja de datos maestros con todos tus valores escritos una sola vez. Está en [`plantillas/DATOS_MAESTROS.md`](plantillas/DATOS_MAESTROS.md).
+
+---
+
+## 11. El formulario no guarda borradores
+
+Rellenas cuarenta minutos de campos, cierras el navegador por cualquier motivo, y vuelves a un formulario vacío. Muchos portales solo guardan si tienes sesión iniciada, y algunos ni así.
+
+**Arreglo:** los formularios largos se llenan **de una sentada**. Y con la hoja de datos maestros delante, esa sentada son diez minutos en vez de cuarenta, así que la trampa deja de doler.
+
+---
+
+## 12. Dos países casi iguales en el desplegable
+
+Las listas de países ponen juntos nombres que se parecen, a veces con el mismo prefijo telefónico. Si escribes las primeras letras y pulsas Enter, te llevas el de al lado. Tu aplicación entera queda con la nacionalidad equivocada y nadie te lo va a avisar.
+
+**Arreglo:** después de seleccionar, **lee lo que quedó**, no lo que creíste seleccionar. Vale para países, ciudades y monedas.
+
+---
+
+## 13. El parser de CV degrada tus datos
+
+Subes el CV, el portal lo lee automáticamente y rellena tu perfil. Suena cómodo. Pero el parser interpreta: puede bajar tu inglés de "avanzado" a "conocimiento básico", puede comerse las fechas de tus estudios, puede partir un puesto en dos.
+
+Y ese perfil degradado es el que ve el reclutador, no tu CV.
+
+**Arreglo:** después de cada subida, **revisa campo por campo lo que entendió el parser**. Los dos sitios donde más se equivoca son idiomas y fechas.
+
+---
+
+## 14. La certificación en curso, en la casilla equivocada
+
+Tienes una certificación a medias y la metes en la sección de Certificados. Ese formulario te pide año de obtención — y al ponerlo, acabas de declarar que la tienes.
+
+No es una exageración inocente: es la clase de dato que se verifica.
+
+**Arreglo:** en Certificados solo va lo obtenido. Lo que está en curso va en Comentarios, Resumen o Notas, con la fórmula *"in progress, expected [mes año]"*.
+
+---
+
+## 15. Un CV genérico en un portal especializado
+
+Si te registras en un portal de un sector concreto y le adjuntas tu CV general, el reclutador de ese sector lee un documento que no le habla. Un CV de trabajo remoto en un portal de minería no menciona rotación, campamento ni entorno industrial — y eso se lee como que no eres del sector.
+
+**Arreglo:** un CV por mercado, y **cuando crees o cambies un CV, revisa qué archivo quedó adjunto en cada portal donde tengas perfil**. Un CV nuevo no sirve de nada si el portal sigue sirviendo el viejo.
+
+---
+
+## Y una excepción que rompe las reglas a propósito
+
+Todo lo que dice este kit sobre CV compatible con ATS —sin foto, sin fecha de nacimiento, sin estado civil— es correcto para Norteamérica, Reino Unido y buena parte de Europa.
+
+**En el Golfo, y en varios mercados de Oriente Medio, Asia y África, la convención es la contraria:** se espera foto, fecha de nacimiento, nacionalidad, estado civil y a veces estado de visa. Un CV sin esos datos no se lee como neutral y profesional; se lee como incompleto.
+
+**Arreglo:** infórmate de la convención del mercado destino **antes** de escribir el CV, y si aplicas a dos mercados con convenciones opuestas, son dos CV distintos. No es incoherencia — es hablar el idioma de quien lee.
+
+---
+
 ## Antes de cada envío — 6 puntos
 
 1. ¿El CV correcto para ese perfil?
