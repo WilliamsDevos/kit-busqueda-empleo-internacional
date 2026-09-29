@@ -22,13 +22,31 @@ Vas a configurar mi sistema automático de búsqueda de empleo. Al terminar tend
 
 ## Qué necesitas averiguar
 
+### Bloque 0 — Alcance (siempre lo primero)
+
+**Antes de cualquier otra pregunta, aunque te dé el CV.** El CV no dice dónde quiero trabajar, y de esto depende todo lo demás: portales, formato del CV, salario, visas.
+
+1. ¿Busco **local** (mi país), **internacional** o **ambos**?
+2. ¿**Remoto**, **presencial** o **ambos**?
+
+Según la combinación, haz la pregunta de seguimiento que toque:
+
+- **Local + presencial** → ciudad y distancia máxima; si me mudaría dentro del país.
+- **Local + remoto** → si solo empresas de mi país o también filiales de extranjeras que contraten remoto.
+- **Internacional + remoto** → empleado o contratista, husos horarios que acepto, cómo prefiero cobrar.
+- **Internacional + presencial** → reubicación permanente, rotacional (FIFO, offshore, cruceros) o estacional; si necesito patrocinio de visa.
+
+> Si elijo "ambos", propón tú el reparto por porcentajes con su razón en una línea. Guarda las respuestas como `ALCANCE_GEOGRAFICO`, `MODALIDAD` y `DETALLE_DE_ALCANCE`.
+>
+> **El alcance decide qué se pregunta después.** Si busco solo local, no me preguntes por visas ni patrocinio. Si busco solo presencial, no me preguntes por micrófono ni cámara.
+
 ### Bloque 1 — Quién soy y qué busco
 Profesión o área · años de experiencia · país de residencia y nacionalidad · idiomas con nivel real · puesto o puestos que busco.
 
 > Si te subo el CV, no preguntes nada de esto. Léelo y pásame directo al bloque 2 con un resumen de una línea para que lo confirme.
 
-### Bloque 2 — Mercado y modalidad
-Remoto, reubicación con visa, rotacional/FIFO, marítimo, estacional, o mezcla · países que me interesan y los que descarto · si necesito patrocinio de visa sí o sí.
+### Bloque 2 — Mercados concretos
+**El alcance ya lo definió el Bloque 0; no lo vuelvas a preguntar.** Aquí solo se afina dentro de él: qué mercados concretos (remoto, reubicación con visa, rotacional/FIFO, marítimo, estacional, o el mercado laboral local de mi ciudad) · países que me interesan y los que descarto · si necesito patrocinio de visa sí o sí (solo si el alcance es presencial en el extranjero).
 
 > Propón tú el reparto por porcentajes según mi perfil y explícame en una línea por qué. No me hagas inventar la mezcla.
 
@@ -47,8 +65,22 @@ Qué gano hoy · mínimo que aceptaría · lo que voy a pedir.
 >
 > Distingue: un puesto con alojamiento y comida incluidos no se compara directo con uno donde pago mi vida.
 
-### Bloque 4 — Filtros duros
-Qué tipo de trabajo no acepto bajo ninguna circunstancia · restricciones médicas, físicas o familiares · cuánto tiempo puedo estar fuera de casa.
+### Bloque 4 — Mis filtros (los defino yo)
+
+**Tú no decides qué es una vacante mala; lo decido yo.** Pregúntame **un ámbito a la vez**, máximo 5 preguntas por mensaje, y **siempre con una propuesta ya redactada y su razón** para que la confirme, cambie o rechace. **Nunca guardes un filtro que no confirmé.** Si respondo "no sé", elige la opción más conservadora, dime cuál y por qué, y márcala como provisional.
+
+Los ámbitos, con la propuesta que me haces en cada uno:
+
+1. **Tipo de trabajo.** ¿Qué tareas no acepto? (atención telefónica, ventas con cuota, cobranzas, atención directa al cliente, turnos nocturnos, trabajo físico). Si rechazo el teléfono, pregunta cuánto sí tolero: si acepto llamadas escaladas de otro nivel, la prueba es si yo **soy la cola** (SLAs, AHT, "queue", BPO), no si hay llamadas.
+2. **Sectores.** ¿Descarto alguno aunque el puesto sea aceptable? ¿Prefiero alguno? Propuesta: ninguno por defecto. Un rechazo de sector corta también los puestos que aceptaría en otro sector, y debo saberlo.
+3. **Credenciales.** Si una vacante pide algo que no tengo: ¿descarto, aplico declarando la brecha, o solo si la empresa lo patrocina? Propuesta: aplicar declarando la brecha si está en curso o la empresa la patrocina; descartar si es rígido.
+4. **Antigüedad del anuncio.** Propuesta: 48 horas en remoto y presencial estándar; 2 semanas en marítimo y offshore.
+5. **Salario no publicado.** Propuesta: en presencial local, descartar (compite contra lo que ya gano); en internacional, no descartar (se negocia).
+6. **Puesto ideal frente a entrar.** Solo si el alcance incluye rotacional, offshore, marítimo o Golfo. Propuesta: cualquier puesto que abra la puerta, sujeto a los filtros 1 y 2; dime el costo (empiezo fuera de mi perfil).
+
+Además, pregúntame: restricciones médicas, físicas o familiares · cuánto tiempo puedo estar fuera de casa.
+
+**Protecciones que no se preguntan, pero se me explican aquí:** empleadores que cobren por contratar, tramitar visa o examen médico antes de una oferta escrita · anuncios sin nombre de empresa · contacto solo por WhatsApp sin dominio de empresa · agregadores que no lleven al portal oficial.
 
 ### Bloque 5 — Con qué cuento
 CV actual y si tengo versiones por perfil · **¿micrófono y cámara usables?** · espacio silencioso para grabar · certificaciones que tengo y las que están en curso, con fecha · documentos que sé que me faltan.
@@ -74,6 +106,10 @@ Si no encuentras nada específico para mi sector, dilo. No inventes nombres de p
 **2. Escribe el archivo `mi-configuracion.md`** con exactamente esta estructura, sin campos vacíos y sin inventar nada que yo no haya confirmado:
 
 ```
+ALCANCE_GEOGRAFICO:  (local | internacional | ambos, con % si es ambos)
+MODALIDAD:           (remoto | presencial | ambos, con % si es ambos)
+DETALLE_DE_ALCANCE:  (ciudad y radio si es local presencial · rotacional/reubicación/estacional si es internacional presencial · empleado o contratista si es remoto)
+
 PERFIL_OBJETIVO:
 PERFILES_SECUNDARIOS:
 PAIS_DE_RESIDENCIA:
@@ -101,6 +137,12 @@ SALARIO_PISO:
 SALARIO_OBJETIVO:
 MI_SALARIO_ACTUAL:
 ANTIGUEDAD_MAXIMA_DEL_ANUNCIO:
+FILTRO_TIPO_DE_TRABAJO:            (tareas que NO acepto, con mis palabras y la fecha)
+FILTRO_SECTORES_EXCLUIDOS:         (sectores que descarto aunque el puesto sea aceptable, o "ninguno")
+FILTRO_SECTORES_PREFERIDOS:        (o "ninguno")
+POLITICA_DE_CREDENCIALES:          (descartar | aplicar declarando la brecha | solo si la empresa patrocina)
+POLITICA_SALARIO_NO_PUBLICADO:     (por modalidad: descartar | no descartar)
+OBJETIVO_EN_MERCADOS_DE_ENTRADA:   (mi puesto | cualquier puesto que abra la puerta | no aplica)
 NO_QUIERO_BAJO_NINGUNA_CIRCUNSTANCIA:
 
 CV_POR_PERFIL:       (perfil: nombre_archivo.pdf)
@@ -114,7 +156,11 @@ DONDE_GUARDAR:
 ARCHIVO_DE_REGISTRO:
 ```
 
-Añade siempre estos descartes fijos, los haya mencionado yo o no: empleadores que cobren por contratar, tramitar visa o examen médico antes de una oferta escrita · anuncios sin nombre de empresa · agregadores que no lleven al portal oficial del empleador.
+Añade siempre las protecciones fijas de seguridad, las haya mencionado yo o no: empleadores que cobren por contratar, tramitar visa o examen médico antes de una oferta escrita · anuncios sin nombre de empresa · contacto solo por WhatsApp sin dominio de empresa · agregadores que no lleven al portal oficial del empleador.
+
+**Todo lo demás son filtros míos, y solo se escribe lo que yo confirmé.** Nada de "por defecto".
+
+**Los campos que el alcance vuelve irrelevantes se escriben como "no aplica", no como vacíos.** Ejemplo: `NECESITO_PATROCINIO_DE_VISA: no aplica (búsqueda local)`.
 
 **3. Crea el archivo de registro** copiando `plantillas/TRACKER_APLICACIONES.md` al nombre y lugar que quedaron en `ARCHIVO_DE_REGISTRO`.
 

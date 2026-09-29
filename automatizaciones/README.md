@@ -10,7 +10,7 @@ Lo que hacen que una lista de tareas manual no hace: siguen corriendo la semana 
 
 **Un solo paso.** Copia [`TAREA_configurar.md`](TAREA_configurar.md) y pégalo en tu asistente.
 
-Te va a hacer unas preguntas cortas —qué buscas, cuánto ganas hoy, cuánto tiempo tienes, si tienes micrófono— y con eso escribe tu configuración, crea tu archivo de registro y deja las dos tareas programadas. Después te muestra un resumen y ya está corriendo.
+Te va a hacer unas preguntas cortas —primero, **si buscas local o internacional y remoto o presencial**; después qué buscas, cuánto ganas hoy, cuánto tiempo tienes, si tienes micrófono— y con eso escribe tu configuración, crea tu archivo de registro y deja las dos tareas programadas. Después te muestra un resumen y ya está corriendo.
 
 **Tú no editas ningún archivo.** Si algo cambia, se lo dices en una frase: *"sube la meta a 15 por semana"*, *"agrega Portugal a los descartes"*, *"ya tengo micrófono"*. Él actualiza la configuración y el cambio aplica desde la siguiente corrida.
 

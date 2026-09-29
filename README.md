@@ -1,6 +1,6 @@
 # Kit de búsqueda de empleo internacional
 
-Herramientas para buscar trabajo en el extranjero o en remoto para empresas de otro país, usando un asistente de IA como copiloto.
+Herramientas para buscar trabajo, en tu país o en el extranjero, presencial o en remoto, usando un asistente de IA como copiloto. Está pensado sobre todo para el mercado internacional, y **lo primero que hace es preguntarte el alcance**: local o internacional, remoto o presencial.
 
 No es un curso ni una lista de consejos. Es un método de trabajo: te entrevista, te dice la verdad sobre dónde estás parado, investiga mercados reales con fuentes, te reescribe el CV por perfil, te deja las aplicaciones listas y te lleva el seguimiento.
 
@@ -26,7 +26,7 @@ No editas ningún archivo de configuración — él te entrevista y lo escribe.
 ### 4. Solo quiero las plantillas
 En **[`plantillas/`](plantillas/)** están el checklist de documentos, el registro de aplicaciones y la estructura de CV compatible con ATS. Úsalas con o sin IA.
 
-**Empieces por donde empieces, lee [`GUIA_RAPIDA.md`](GUIA_RAPIDA.md).** Son diez errores que cuestan entrevistas, y varios son invisibles hasta que alguien te los señala.
+**Empieces por donde empieces, lee [`GUIA_RAPIDA.md`](GUIA_RAPIDA.md).** Son errores que cuestan entrevistas, y varios son invisibles hasta que alguien te los señala.
 
 > ⚠️ **Si vas a clonar este repo, lee antes [`PRIVACIDAD.md`](PRIVACIDAD.md).** El kit genera archivos con tu nombre, tu dirección y tu salario. Un `git add .` distraído los publica.
 
@@ -34,7 +34,7 @@ En **[`plantillas/`](plantillas/)** están el checklist de documentos, el regist
 
 ## Qué hace el método, en orden
 
-1. **Entrevista y diagnóstico** — seis bloques cortos, y después la verdad: tus 3 activos reales, lo que te frena, y una puntuación de realismo del 1 al 10 por mercado.
+1. **Alcance, entrevista y diagnóstico** — primero dos preguntas que lo condicionan todo (¿local o internacional? ¿remoto o presencial?), después seis bloques cortos, y por último la verdad: tus 3 activos reales, lo que te frena, y una puntuación de realismo del 1 al 10 por mercado.
 2. **Investigación de plataformas** — dónde se publica de verdad tu trabajo. Portales sectoriales, regionales y páginas de carrera de empleadores concretos. **Antes de escribir una sola línea de CV.**
 3. **Credenciales** — crear las cuentas en esas plataformas y completar los perfiles. Muchas tienen su propio CV interno que pesa más que el archivo que adjuntas.
 4. **Documentos** — CV por perfil, cartas, checklist de papeles. Ahora sí, sabiendo qué pide cada plataforma y cada mercado.

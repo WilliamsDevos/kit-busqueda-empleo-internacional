@@ -1,4 +1,4 @@
-# Guía rápida — 10 errores que cuestan entrevistas
+# Guía rápida — errores que cuestan entrevistas
 
 Léela antes de empezar. Varios de estos son invisibles hasta que alguien te los señala.
 
@@ -143,6 +143,52 @@ Todo lo que dice este kit sobre CV compatible con ATS —sin foto, sin fecha de 
 **En el Golfo, y en varios mercados de Oriente Medio, Asia y África, la convención es la contraria:** se espera foto, fecha de nacimiento, nacionalidad, estado civil y a veces estado de visa. Un CV sin esos datos no se lee como neutral y profesional; se lee como incompleto.
 
 **Arreglo:** infórmate de la convención del mercado destino **antes** de escribir el CV, y si aplicas a dos mercados con convenciones opuestas, son dos CV distintos. No es incoherencia — es hablar el idioma de quien lee.
+
+---
+
+## Cinco trampas que ahorran semanas
+
+Salen de rondas de búsqueda reales. Ninguna es un error tuyo: son trampas del mercado que solo se ven después de perder tiempo en ellas. **Qué aceptas y qué no lo decides tú:** el asistente te lo pregunta ámbito por ámbito, y aquí solo te da la información para decidir.
+
+---
+
+## 16. Buscaste sin decidir el alcance
+
+Una búsqueda "de empleo" sin decir si es local o internacional, remota o presencial mezcla cuatro mercados con reglas opuestas: visas, formato de CV, salario de referencia, plazos. El resultado es una lista larga de vacantes que casi ninguna encaja.
+
+**Arreglo:** antes de abrir un portal, contesta dos preguntas: ¿local o internacional? ¿remoto o presencial? Si son "ambos", fija el porcentaje de cada uno. Todo lo demás se filtra desde ahí.
+
+---
+
+## 17. Si no quieres un call center, puede serlo aunque no lo diga
+
+Si decidiste que no quieres atención telefónica, la prueba no es si hay llamadas, sino si **tú eres la cola**. Son señales de descarte: "primary point of contact for inbound calls", SLAs sobre una cola de tickets, AHT, volumen de llamadas por día, cobertura de turnos, BPO. Y las frases como *"you aren't just reading from a script"* son un aviso, no una garantía: se anticipan a una objeción real.
+
+**Arreglo:** juzga por la lista de responsabilidades. Sirve si administras sistemas con nombre propio, trabajas por proyectos además de tickets, o las llamadas llegan solo por escalamiento.
+
+---
+
+## 18. Leíste solo la mitad del anuncio
+
+Casi todos los portales cortan la descripción con "Read more" o un acordeón, y el requisito que descalifica suele estar justo debajo del corte.
+
+**Arreglo:** expande todo antes de decidir. Si el portal no muestra el texto entero, abre la vacante en la página del empleador.
+
+---
+
+## 19. Buscaste por categoría en vez de por puesto
+
+Filtrar un portal por la categoría "IT" devuelve puestos *en empresas de IT* (ventas, dirección), no los puestos de soporte que buscabas. Y en minería, offshore o marítimo, los puestos de entrada casi nunca se publican en los portales sectoriales: se cubren con gente local y salen por agencias o contacto directo.
+
+**Arreglo:** busca por la palabra clave del puesto y compara los dos conteos. Si una ronda de portal sale vacía, cambia de canal en vez de repetirla.
+
+---
+
+## 20. Pediste el salario de una banda que no era la tuya
+
+Si pides el techo de la banda de entrada teniendo perfil de nivel medio, estás anclando bajo tu propia categoría, y ese ancla es el que negocia el resto del proceso.
+
+**Arreglo:** antes de fijar el número, ubícate en la banda según tus años, herramientas y alcance real, con la fuente del rango. Si cambias la cifra, lo ya enviado no se toca: aplica desde la siguiente.
 
 ---
 
