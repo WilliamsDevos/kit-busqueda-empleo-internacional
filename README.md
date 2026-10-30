@@ -77,6 +77,9 @@ Un empleador legítimo **no cobra por contratarte**. Desconfía de quien:
 - Te contacta solo por WhatsApp, sin correo con dominio de empresa
 - Te ofrece el puesto sin entrevista técnica
 - No aparece listado en el portal oficial del empleador
+- Te envía dinero, un cheque o "tu equipo" antes de que empieces, y luego pide devolver parte o comprar algo
+
+El fraude también viene invertido: te depositan o te mandan un cheque antes de empezar — "para tu equipo, devuelves la diferencia" — y el cheque rebota. El dinero que devolviste era el tuyo. Un empleador legítimo te manda el equipo por paquetería, no el dinero para comprarlo.
 
 Pagarle a una **escuela acreditada** por una certificación obligatoria sí es legítimo. La diferencia está en a quién le pagas y por qué.
 

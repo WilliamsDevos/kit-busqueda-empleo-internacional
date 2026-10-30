@@ -189,10 +189,11 @@ No añadas ninguna que no esté en esta lista, por mucho que la pida el anuncio.
 1. ¿El CV correcto para ese mercado?
 2. ¿Es PDF?
 3. ¿El país seleccionado es el tuyo y no el vecino de nombre parecido?
-4. ¿Las fechas coinciden con esta hoja?
-5. ¿La pregunta del título universitario está bien respondida?
-6. ¿El parser no degradó tus idiomas ni se comió fechas?
-7. ¿Declaraste tus brechas?
-8. ¿Registraste el envío y la fecha de seguimiento?
+4. ¿Documento de identidad, fecha de nacimiento y dirección solo donde el formulario los pidió — no rellenados de más?
+5. ¿Las fechas coinciden con esta hoja?
+6. ¿La pregunta del título universitario está bien respondida?
+7. ¿El parser no degradó tus idiomas ni se comió fechas?
+8. ¿Declaraste tus brechas?
+9. ¿Registraste el envío y la fecha de seguimiento?
 
 > **Los formularios largos se llenan de una sentada.** Muchos no guardan borradores si no has iniciado sesión, y cerrar la pestaña borra cuarenta minutos de trabajo. Con esta hoja delante, una sentada son diez minutos.

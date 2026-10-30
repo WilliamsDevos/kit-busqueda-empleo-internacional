@@ -213,4 +213,6 @@ Si pides el techo de la banda de entrada teniendo perfil de nivel medio, estás 
 
 **Nadie legítimo te cobra por contratarte.** Ni por "tramitar la visa", ni por "reservar la plaza", ni por un examen médico antes de tener una oferta escrita.
 
+El truco también viene invertido: te depositan o te mandan un cheque **antes** de empezar ("para tu equipo, devuelve la diferencia") y el cheque rebota — el dinero que devolviste era el tuyo. Un empleador legítimo te manda el equipo por paquetería, no el dinero para comprarlo.
+
 Pagarle a una escuela acreditada por una certificación obligatoria sí es normal. La diferencia está en a quién le pagas y por qué.

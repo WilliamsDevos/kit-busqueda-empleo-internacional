@@ -5,6 +5,7 @@
 # Esta lista existe para que un `git add .` distraído no los publique.
 
 mi-configuracion.md
+mi-*
 mis-datos*
 DATOS_MAESTROS*
 datos_maestros*
