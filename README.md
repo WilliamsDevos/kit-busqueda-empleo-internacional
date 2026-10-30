@@ -13,7 +13,7 @@ No es un curso ni una lista de consejos. Es un método de trabajo: te entrevista
 ### 1. Solo tengo un chat de IA
 Abre **[`PROMPT_MAESTRO.md`](PROMPT_MAESTRO.md)**, copia todo lo que está debajo de la línea, y pégalo como primer mensaje. Funciona en Claude, ChatGPT o cualquier asistente.
 
-Funciona mejor si tu herramienta puede buscar en internet.
+Funciona mejor si tu herramienta puede buscar en internet. Si no puede, las fases de entrevista, CV y documentos corren igual; lo que pierdes es la verificación en vivo de portales y vacantes, que tendrás que hacer a mano.
 
 ### 2. Uso Claude con skills
 Instala **[`skill/SKILL.md`](skill/SKILL.md)**. Se activa sola cuando hables de búsqueda de empleo internacional, y persiste entre conversaciones — no tienes que pegar nada cada vez.
@@ -26,7 +26,7 @@ No editas ningún archivo de configuración — él te entrevista y lo escribe.
 ### 4. Solo quiero las plantillas
 En **[`plantillas/`](plantillas/)** están el checklist de documentos, el registro de aplicaciones y la estructura de CV compatible con ATS. Úsalas con o sin IA.
 
-**Empieces por donde empieces, lee [`GUIA_RAPIDA.md`](GUIA_RAPIDA.md).** Son errores que cuestan entrevistas, y varios son invisibles hasta que alguien te los señala.
+**Empieza por donde empieces, lee [`GUIA_RAPIDA.md`](GUIA_RAPIDA.md).** Son errores que cuestan entrevistas, y varios son invisibles hasta que alguien te los señala.
 
 > ⚠️ **Si vas a clonar este repo, lee antes [`PRIVACIDAD.md`](PRIVACIDAD.md).** El kit genera archivos con tu nombre, tu dirección y tu salario. Un `git add .` distraído los publica.
 
@@ -77,6 +77,9 @@ Un empleador legítimo **no cobra por contratarte**. Desconfía de quien:
 - Te contacta solo por WhatsApp, sin correo con dominio de empresa
 - Te ofrece el puesto sin entrevista técnica
 - No aparece listado en el portal oficial del empleador
+- Te envía dinero, un cheque o "tu equipo" antes de que empieces, y luego pide devolver parte o comprar algo
+
+El fraude también viene invertido: te depositan o te mandan un cheque antes de empezar — "para tu equipo, devuelves la diferencia" — y el cheque rebota. El dinero que devolviste era el tuyo. Un empleador legítimo te manda el equipo por paquetería, no el dinero para comprarlo.
 
 Pagarle a una **escuela acreditada** por una certificación obligatoria sí es legítimo. La diferencia está en a quién le pagas y por qué.
 

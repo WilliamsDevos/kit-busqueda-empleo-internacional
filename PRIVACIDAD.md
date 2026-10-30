@@ -50,6 +50,16 @@ Si sigues empleado, hay tres fugas comunes que no tienen nada que ver con git:
 
 ---
 
+## El chat es una copia
+
+Todo lo que pegas en tu asistente queda en el lado del proveedor: el histórico de la conversación y, según la herramienta, su retención. Un CV pegado completo lleva tu dirección y tu teléfono; la hoja de datos maestros lleva tu documento de identidad y tu fecha de nacimiento.
+
+- **Pega lo mínimo que la tarea necesite.** Si la entrevista pide tres campos, no pegues el documento entero.
+- **Contraseñas y códigos de verificación no van al chat.** Lo que el portal de empleo necesite que escribas, se escribe ahí mismo en el portal — no en la conversación.
+- Si tu herramienta ofrece un modo sin histórico o privado, los pasos con más datos van ahí.
+
+---
+
 ## Contribuir
 
 Si abres un issue o un pull request, **no pegues tu configuración, tu CV ni capturas con tus datos.** Anonimiza antes: cambia nombres, teléfonos y cifras por ejemplos.

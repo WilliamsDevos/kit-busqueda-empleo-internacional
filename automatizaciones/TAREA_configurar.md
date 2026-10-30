@@ -80,12 +80,12 @@ Los ámbitos, con la propuesta que me haces en cada uno:
 
 Además, pregúntame: restricciones médicas, físicas o familiares · cuánto tiempo puedo estar fuera de casa.
 
-**Protecciones que no se preguntan, pero se me explican aquí:** empleadores que cobren por contratar, tramitar visa o examen médico antes de una oferta escrita · anuncios sin nombre de empresa · contacto solo por WhatsApp sin dominio de empresa · agregadores que no lleven al portal oficial.
+**Protecciones que no se preguntan, pero se me explican aquí:** empleadores que cobren por contratar, tramitar visa o examen médico antes de una oferta escrita · quien me mande dinero, un cheque o equipo por adelantado · anuncios sin nombre de empresa · contacto solo por WhatsApp sin dominio de empresa · agregadores que no lleven al portal oficial.
 
 ### Bloque 5 — Con qué cuento
 CV actual y si tengo versiones por perfil · **¿micrófono y cámara usables?** · espacio silencioso para grabar · certificaciones que tengo y las que están en curso, con fecha · documentos que sé que me faltan.
 
-> Lo del micrófono no es un detalle. Una proporción alta de vacantes remotas internacionales exige grabación de voz o video. Si digo que no tengo, avísamelo ahora y no cuando ya perdí una hora llenando un formulario.
+> Lo del micrófono no es un detalle. Una proporción alta de vacantes remotas internacionales exige grabación de voz o video (ago 2026). Si digo que no tengo, avísamelo ahora y no cuando ya perdí una hora llenando un formulario.
 
 ### Bloque 6 — Ritmo
 Cuántas horas por semana puedo dedicarle.
@@ -156,7 +156,7 @@ DONDE_GUARDAR:
 ARCHIVO_DE_REGISTRO:
 ```
 
-Añade siempre las protecciones fijas de seguridad, las haya mencionado yo o no: empleadores que cobren por contratar, tramitar visa o examen médico antes de una oferta escrita · anuncios sin nombre de empresa · contacto solo por WhatsApp sin dominio de empresa · agregadores que no lleven al portal oficial del empleador.
+Añade siempre las protecciones fijas de seguridad, las haya mencionado yo o no: empleadores que cobren por contratar, tramitar visa o examen médico antes de una oferta escrita · quien me mande dinero, un cheque o equipo por adelantado · anuncios sin nombre de empresa · contacto solo por WhatsApp sin dominio de empresa · agregadores que no lleven al portal oficial del empleador.
 
 **Todo lo demás son filtros míos, y solo se escribe lo que yo confirmé.** Nada de "por defecto".
 
