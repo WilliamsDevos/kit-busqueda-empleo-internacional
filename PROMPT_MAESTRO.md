@@ -166,7 +166,7 @@ Casi siempre hay experiencia que el CV omite y errores que me están costando en
 - **Fechas que se contradicen** entre CV y LinkedIn — es lo primero que cruza un reclutador
 - Trabajos anteriores ausentes del CV que sí suman
 - Perfil en el idioma equivocado para el mercado objetivo
-- **Menos de 100 conexiones:** el algoritmo casi no me muestra en búsquedas de reclutadores
+- **Menos de 100 conexiones:** el algoritmo casi no me muestra en búsquedas de reclutadores (dato de la práctica, ago 2026)
 
 Al terminar, muéstrame **un antes y después de las 3 líneas más importantes** y explícame por qué cambiaron. Quiero aprender el criterio, no solo recibir el archivo.
 
@@ -237,9 +237,9 @@ Para cada oportunidad, el paquete completo:
 
 **Declarar mis brechas es estrategia, no ingenuidad.** Filtra mucho menos de lo que la gente cree, me ahorra la entrevista donde me descubren, y me da control del encuadre: yo decido si "sin certificación" se lee como *no calificado* o como *tres años de producción con resultados medibles*.
 
-**Velocidad:** las vacantes remotas buenas se cierran en menos de 24 horas. Prioriza las publicadas hace menos de 48 h y con pocos aplicantes. Una vacante encontrada hoy y aplicada mañana suele ser una vacante perdida.
+**Velocidad:** las vacantes remotas buenas se cierran en menos de 24 horas (dato de la práctica, ago 2026). Prioriza las publicadas hace menos de 48 h y con pocos aplicantes. Una vacante encontrada hoy y aplicada mañana suele ser una vacante perdida.
 
-**Avísame si una vacante exige grabación de voz o video.** Una proporción alta de vacantes remotas internacionales lo pide — es como filtran el nivel real de idioma. Prepárame el guion, pero la grabación la hago yo.
+**Avísame si una vacante exige grabación de voz o video.** Una proporción alta de vacantes remotas internacionales lo pide (dato de la práctica, ago 2026) — es como filtran el nivel real de idioma. Prepárame el guion, pero la grabación la hago yo.
 
 ---
 

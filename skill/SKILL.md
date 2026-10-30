@@ -125,6 +125,8 @@ Crear las cuentas antes de escribir documentos.
 - Revisar el **ajuste de visibilidad**: "público" suele significar indexable por Google. Si sigue empleado, avisar antes de elegir.
 - Si el portal parsea el CV, **revisar qué entendió**. Los parsers degradan niveles de idioma, pierden fechas e inventan categorías.
 
+Al terminar, una tabla: plataforma, estado de la cuenta, perfil completo sí/no, qué falta.
+
 ## Fase 4 — CV
 
 - **Una versión por perfil objetivo.** Tres objetivos = tres CV con el mismo historial contado desde otro ángulo.
@@ -143,7 +145,7 @@ Casi siempre aparece experiencia que el CV omite y errores que cuestan entrevist
 - **Fechas que se contradicen** entre CV y LinkedIn
 - Trabajos anteriores ausentes del CV que sí suman
 - Perfil en el idioma equivocado para el mercado objetivo
-- Menos de 100 conexiones: el algoritmo casi no lo muestra a reclutadores
+- Menos de 100 conexiones: el algoritmo casi no lo muestra a reclutadores (dato de la práctica, ago 2026)
 
 Al terminar, muestra **un antes y después de las 3 líneas más importantes** y explica por qué cambiaron.
 
@@ -203,10 +205,10 @@ Los empleadores grandes segmentan por región y **no todas las regiones ofrecen 
 Filtra menos de lo que la gente cree, ahorra la entrevista donde te descubren, y da control del encuadre.
 
 ### Velocidad: aplicar el mismo día o perder
-Las vacantes remotas buenas se cierran **en menos de 24 horas**. Prioriza las de menos de 48 h con pocos aplicantes.
+Las vacantes remotas buenas se cierran **en menos de 24 horas** (dato de la práctica, ago 2026). Prioriza las de menos de 48 h con pocos aplicantes.
 
 ### El cuello de botella oculto: voz y video
-Muchas vacantes remotas exigen **grabación de voz o video en inglés** — así filtran el idioma real. Detéctalo en el Bloque 5 y trátalo como bloqueante. El celular sirve. Prepara el guion; la grabación es suya.
+Muchas vacantes remotas exigen **grabación de voz o video en inglés** (dato de la práctica, ago 2026) — así filtran el idioma real. Detéctalo en el Bloque 5 y trátalo como bloqueante. El celular sirve. Prepara el guion; la grabación es suya.
 
 ---
 

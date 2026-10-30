@@ -85,7 +85,7 @@ Además, pregúntame: restricciones médicas, físicas o familiares · cuánto t
 ### Bloque 5 — Con qué cuento
 CV actual y si tengo versiones por perfil · **¿micrófono y cámara usables?** · espacio silencioso para grabar · certificaciones que tengo y las que están en curso, con fecha · documentos que sé que me faltan.
 
-> Lo del micrófono no es un detalle. Una proporción alta de vacantes remotas internacionales exige grabación de voz o video. Si digo que no tengo, avísamelo ahora y no cuando ya perdí una hora llenando un formulario.
+> Lo del micrófono no es un detalle. Una proporción alta de vacantes remotas internacionales exige grabación de voz o video (ago 2026). Si digo que no tengo, avísamelo ahora y no cuando ya perdí una hora llenando un formulario.
 
 ### Bloque 6 — Ritmo
 Cuántas horas por semana puedo dedicarle.

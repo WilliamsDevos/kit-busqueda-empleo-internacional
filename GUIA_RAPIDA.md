@@ -4,6 +4,12 @@ Léela antes de empezar. Varios de estos son invisibles hasta que alguien te los
 
 ---
 
+## Los datos con fecha
+
+Varios umbrales de mercado de esta guía llevan la etiqueta **(ago 2026)**: nacen de la búsqueda real que originó este kit, documentada en agosto de 2026. Son el tipo de dato que caduca — si llegaste por otra época, re-verifícalo antes de fiarte. Las reglas de método no caducan.
+
+---
+
 ## 1. Tu CV no dice qué buscas
 
 Si tu resumen menciona tres áreas distintas, el reclutador no sabe para qué puesto eres y no va a adivinar.
@@ -30,7 +36,7 @@ Este es silencioso y caro. LinkedIn tiene una categoría llamada "Career break" 
 
 ## 4. Menos de 100 conexiones en LinkedIn
 
-Con pocas conexiones el algoritmo casi no te muestra en las búsquedas de reclutadores. Tu perfil puede ser excelente y aun así ser invisible.
+Con pocas conexiones el algoritmo casi no te muestra en las búsquedas de reclutadores (ago 2026). Tu perfil puede ser excelente y aun así ser invisible.
 
 **Arreglo:** 10 invitaciones al día. Excompañeros, gente de tu sector, reclutadores. Meta: 300 en un mes.
 
@@ -46,7 +52,7 @@ Si buscas trabajo internacional y tu titular está en español, no apareces cuan
 
 ## 6. Aplicaste al día siguiente
 
-Las vacantes remotas buenas se cierran **en menos de 24 horas**. Una que se publica hoy con 20 aplicantes puede estar cerrada mañana.
+Las vacantes remotas buenas se cierran **en menos de 24 horas** (ago 2026). Una que se publica hoy con 20 aplicantes puede estar cerrada mañana.
 
 **Arreglo:** alertas diarias, y aplica el mismo día que la encuentras. Mejor una carta buena hoy que una perfecta pasado mañana.
 
@@ -54,7 +60,7 @@ Las vacantes remotas buenas se cierran **en menos de 24 horas**. Una que se publ
 
 ## 7. No tienes micrófono
 
-Una proporción alta de vacantes remotas internacionales exige **grabación de voz o video en inglés** — es como filtran el nivel real de idioma. Sin micrófono, no puedes terminar esas aplicaciones.
+Una proporción alta de vacantes remotas internacionales exige **grabación de voz o video en inglés** (ago 2026) — es como filtran el nivel real de idioma. Sin micrófono, no puedes terminar esas aplicaciones.
 
 **Arreglo:** el celular sirve. Un cuarto silencioso y practicar el guion dos veces en voz alta. Después grábalo **sin leerlo** — suena mejor imperfecto y natural que perfecto y recitado.
 

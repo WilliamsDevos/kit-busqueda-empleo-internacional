@@ -55,7 +55,7 @@ Copia esta lista, márcala con tu situación real y ten todo en **una sola carpe
 
 ## 5. Media — el que más aplicaciones bloquea
 
-Una proporción alta de vacantes remotas internacionales exige grabación de voz o video. Es como filtran el nivel real de idioma.
+Una proporción alta de vacantes remotas internacionales exige grabación de voz o video (ago 2026). Es como filtran el nivel real de idioma.
 
 - [ ] **Micrófono utilizable** — el del celular sirve
 - [ ] Cámara para video de 1 minuto
