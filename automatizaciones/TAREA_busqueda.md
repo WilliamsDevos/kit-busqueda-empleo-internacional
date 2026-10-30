@@ -8,6 +8,15 @@ Lee `mi-configuracion.md` y el archivo indicado en `ARCHIVO_DE_REGISTRO` antes d
 
 > Si `mi-configuracion.md` no existe, no improvises: dile al usuario que corra primero `TAREA_configurar.md` y detente ahí.
 
+## Si tu herramienta no abre páginas
+
+Algunas herramientas programan tareas pero no interactúan con sitios web. La tarea cambia de producto, no de método: los filtros, el reporte y el registro quedan igual; lo que cambia es qué entra a la lista.
+
+- **Nada entra a la lista sin verificación en vivo.** No puedes abrir la URL: entonces la vacante lleva la marca "falta abrir" y ninguna de la lista se considera lista para enviar.
+- **El paquete de cada vacante es URL + CV + asunto + carta.** No hay formulario que rellenar: el Submit lo da la persona desde su navegador.
+- **Lo dependiente de página queda fuera:** agregador sospechoso, canal regional, texto cortado por "Read more" — van a "NECESITO DE TI", no se juzgan a ciegas.
+- **Aviso arriba del reporte:** "no se revisó el texto completo de estos anuncios; siempre se abre antes de enviar — el requisito que descalifica suele estar debajo del corte."
+
 ## Primer filtro: el alcance
 
 **Antes de abrir un solo portal, lee `ALCANCE_GEOGRAFICO`, `MODALIDAD` y `DETALLE_DE_ALCANCE`.** Son lo primero que se filtra, antes que perfil, salario o antigüedad.
@@ -50,7 +59,7 @@ Toca como mínimo, en cada ronda:
 
 Aplica, por este orden:
 
-1. **`FILTRO_TIPO_DE_TRABAJO`.** Si excluí la atención telefónica pero acepto llamadas escaladas, la prueba es si yo **soy la cola**. Descarta si dice: *"primary point of contact for inbound calls"* (aunque diga que son escaladas) · SLAs sobre una cola de tickets · AHT, volumen de llamadas por día, cobertura de turnos, "queue" · BPO o "contact center" sin dueño técnico de sistemas. Sirve si administro sistemas con nombre propio, trabajo por proyectos además de tickets, las llamadas llegan solo por escalamiento, o tengo responsabilidad sobre un entorno y no sobre un turno. Juzga por la lista de responsabilidades, nunca por frases como *"you aren't just reading from a script"*.
+1. **`FILTRO_TIPO_DE_TRABAJO`.** Si excluí la atención telefónica pero acepto llamadas escaladas, la prueba es si yo **soy la cola**. Descarta si dice: *"primary point of contact for inbound calls"* (aunque diga que son escaladas) · SLAs sobre una cola de tickets · AHT, volumen de llamadas por día, cobertura de turnos, "queue" · BPO o "contact center" sin dueño técnico de sistemas. Sirve si administro sistemas con nombre propio, trabajo por proyectos además de tickets, las llamadas llegan solo por escalamiento, o tengo responsabilidad sobre un entorno y no sobre un turno. Juzga por la lista de responsabilidades, nunca por frases como *"you aren't just reading from a script"*. La prueba se traduce a cualquier oficio si el descarte fue otro (ventas con cuota, cobranzas, turnos): no es si la tarea existe, sino de qué lado está la persona — la unidad de entrada (pedidos, pacientes, paquetes, cobros) llega a una cola con métricas y cobertura de turnos; el sistema con nombre propio se administra.
 2. **`FILTRO_SECTORES_EXCLUIDOS`.** La línea está en el sector, no en la tarea.
 3. **`POLITICA_DE_CREDENCIALES`.** Aplica exactamente lo que elegí.
 4. **`POLITICA_SALARIO_NO_PUBLICADO`**, por modalidad.

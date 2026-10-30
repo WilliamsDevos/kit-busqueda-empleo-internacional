@@ -170,6 +170,8 @@ Una búsqueda "de empleo" sin decir si es local o internacional, remota o presen
 
 Si decidiste que no quieres atención telefónica, la prueba no es si hay llamadas, sino si **tú eres la cola**. Son señales de descarte: "primary point of contact for inbound calls", SLAs sobre una cola de tickets, AHT, volumen de llamadas por día, cobertura de turnos, BPO. Y las frases como *"you aren't just reading from a script"* son un aviso, no una garantía: se anticipan a una objeción real.
 
+La prueba se traduce a tu oficio cambiando la unidad de entrada: pacientes por hora, pedidos cerrados, cuota que llenar, paquetes que escanear. La pregunta no cambia: ¿esa unidad la eliges tú, o te cae encima con métricas y cobertura de turnos?
+
 **Arreglo:** juzga por la lista de responsabilidades. Sirve si administras sistemas con nombre propio, trabajas por proyectos además de tickets, o las llamadas llegan solo por escalamiento.
 
 ---

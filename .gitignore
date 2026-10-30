@@ -5,14 +5,17 @@
 # Esta lista existe para que un `git add .` distraído no los publique.
 
 mi-configuracion.md
-mi-*
-mis-datos*
+[Mm]i[-_ ]*
+[Mm]is[-_ ]*
 DATOS_MAESTROS*
-datos_maestros*
+[Dd]atos[Mm][Aa]estros*
+[Dd]atos[_-][Mm][Aa]estros*
+[Dd]atos[ ][Mm][Aa]estros*
+[Dd]ata[_-][Mm][Aa]estros*
+[Dd]ata[Mm][Aa]estros*
+[Tt]racker*
 TRACKER_APLICACIONES.md
-tracker*
-mi-tracker*
-seguimiento*
+[Ss]eguimiento*
 
 # Todo lo que generes tú
 CV*
